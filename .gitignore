@@ -1,0 +1,9 @@
+*/**/node_mudules
+*/**/dist
+*/**/public
+*/**/tsconfig.spec.json
+*/**/tsconfig.app.json
+*/**/tsconfig.server.json
+
+*/**/*-lock.json
+*/**/.vscode
